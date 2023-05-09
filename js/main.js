@@ -11,7 +11,7 @@ doc.ready(function(){
 	$(window).scrollTop(0);
 
 	var typed = new Typed(".mytext", {
-	  strings: ['<i>Narendra Prasath</i>', 'Web Developer','Programmer'],
+	  strings: ['Full-Stack Developer', 'Web Designer','Programmer'],
 	  smartBackspace: true, // Default value
 	  loop:true,
 	  backDelay: 1000,
