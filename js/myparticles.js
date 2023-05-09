@@ -9,7 +9,7 @@ particlesJS("myparticles", {
       image: { src: "img/github.svg", width: 100, height: 100 }
     },
     opacity: {
-      value: 0.3,
+      value: 0.1,
       random: false,
       anim: { enable: false, speed: 1, opacity_min: 0.1, sync: false }
     },
