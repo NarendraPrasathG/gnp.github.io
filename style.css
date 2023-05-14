@@ -192,7 +192,7 @@ button:focus
 	height: 100vh;
 	background:url(img//IMG_3066.HEIC);
 	background-repeat: no-repeat;
-	background-size: 100% 100% ;
+	background-size: 100% 700px ;
 	background-attachment: fixed;
 	color: #fff;
 	text-align: center;
