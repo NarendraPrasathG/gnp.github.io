@@ -192,7 +192,7 @@ button:focus
 	height: 100vh;
 	background:url(img//IMG_3066.HEIC);
 	background-repeat: no-repeat;
-	background-size: 100% 700px;
+	background-size: 100% 100%;
 	background-attachment: fixed;
 	color: #fff;
 	text-align: center;
@@ -206,7 +206,7 @@ button:focus
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(0,0,0,0.4);
+	background-color: rgba(0,0,0,0.3);
 }
 .main-content
 {
